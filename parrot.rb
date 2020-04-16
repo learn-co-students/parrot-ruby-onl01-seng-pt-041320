@@ -1,2 +1,5 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+def
+change_my_name
+name = "parrot"
+puts name.reverse
+return name 
